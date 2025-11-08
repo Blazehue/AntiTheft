@@ -1,4 +1,4 @@
-# Anti-Theft Alarm System
+# Anti-Theft Alarm System(GUI UPDATED WITH OBJECT DETECTION)
 **Integrating Computer Vision with Computer Organization & Architecture**
 (still work in progress)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
